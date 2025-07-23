@@ -3,7 +3,7 @@ PalServer configured &amp; optimized for Vanilla **Palworld v0.6.0 "Tides of Ter
 - Subjected to change
 #
 
-Insert the following into the ** STEAM ** console for "Palworld Dedicated Server:"
+Insert the following into the **STEAM** console for "Palworld Dedicated Server:"
 - -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -NumberOfWorkerThreadsServer=8
 
 _Server working with 8 process threads_
